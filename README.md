@@ -1,3 +1,5 @@
-# form-post-and-put
-Form dengan method post dan put laravel
+# Form Validation with laravel
+Implementasi validasi form di laravel dengan memanfaatkan Request.
+Semua Rule terletak di direktori app/Http/Requests/BiodataRequest
+
 By : jeffsuto
